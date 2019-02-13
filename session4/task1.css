@@ -1,0 +1,23 @@
+#survey {
+    width: 350px;
+}
+
+#survey input[type="text"], input[type="number"] {
+    float: right;
+}
+
+
+#survey input[type="submit"] {
+    width: 315px;
+    border-radius: 4px;
+    border: solid 1px black;
+    font-size: 20px;
+}
+
+input:invalid {
+    border: solid red;
+}
+
+input:valid {
+    border: solid green;
+}

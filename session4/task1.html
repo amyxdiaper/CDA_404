@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="task1.css" type="text/css" />
     <title>Student Survey</title>
 </head>
 <body>
@@ -12,35 +13,49 @@
 </body>
 </html>
 
-<form action="http://www.google.com" method="post">
-    <p> <label for="name">Name*:</label> <input type="text" name="name"> </p>
-    <p> <label for="email">Email*:</label> <input type="text" name="email"> </p>
-    <p> <label for="number">Number*:</label> <input type="number" name="number"></p>
+<form action="http://www.google.com" id="survey" method="post">
+    <fieldset>
+    <p> <label for="name">Name*:</label> <input type="text" name="name" required></p>
+    <p> <label for="email">Email*:</label> <input type="text" name="email" required></p>
+    <p> <label for="number">Number*:</label> <input type="text" name="number" required></p>
+    </fieldset>
     
     
-    <p> <label for="list"> What year are you in*:</label></p> 
+    <fieldset>
+    <p> <label for="list" required> What year are you in*:</label></p> 
     <p> <select>
         <option value="first">First</option>
         <option value="second">Second</option>
         <option value="third">Third</option>
     </select></p>
+    </fieldset>
     
     
+    <fieldset>
     <label for="devices"> Which electronic devices do you use? </label>
     <p><input type="checkbox" name="device" value="computer"> Computer</p>
     <p><input type="checkbox" name="device" value="ebook"> Ebook reader </p>
     <p><input type="checkbox" name="device" value="smartphone"> Smart phone</p>
+    </fieldset>
     
     
+    <fieldset>
     <label for="usage"> How many hours a day do you spend using electronic devices?</label>
     <p><input type="radio" name="usage" value="one"> 1 hours</p>
     <p><input type="radio" name="usage" value="two"> 2 hours </p>
     <p><input type="radio" name="usage" value="three"> 3 hours +</p>
+    </fieldset>
     
     
+    <fieldset>
     <p> <label for="comments">Any other comments </label></p>
     <p> <input type="text" name="comments"></p>
+    </fieldset>
+    
+    
+    <fieldset>
     <p><input type="submit" name="submit" value="Submit"></p>
+    </fieldset>
 
 
 </form>
