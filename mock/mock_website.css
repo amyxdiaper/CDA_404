@@ -1,0 +1,33 @@
+* { margin: 0;
+    padding: 10px
+}
+
+.thin {
+    text-align: center;
+    width: 80%;
+}
+
+nav ul {
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    text-align: center;
+}
+
+
+h1, h2 {
+    text-align: center;
+}
+
+
+#about_me, #background {
+    width: 47%;
+    float: left;
+}
+
+table {
+    border-color: solid black;
+    float: center;
+}
