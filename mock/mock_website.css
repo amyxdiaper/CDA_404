@@ -2,6 +2,10 @@
     padding: 10px
 }
 
+body {
+background-color: grey;
+}
+
 .thin {
     text-align: center;
     width: 80%;
@@ -28,6 +32,8 @@ h1, h2 {
 }
 
 table {
-    border-color: solid black;
-    float: center;
+    border-color:black;
+    left:40%;
+    position:relative;
 }
+
