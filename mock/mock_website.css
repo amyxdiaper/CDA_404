@@ -32,8 +32,27 @@ h1, h2 {
 }
 
 table {
-    border-color:black;
+    border-spacing: 2px;
     left:40%;
     position:relative;
 }
+
+table, th, td {
+    border: 1px solid black;
+    
+}
+
+th, td {
+    padding: 10px;
+}
+
+
+th {
+    text-align: left;
+}
+
+
+
+
+
 

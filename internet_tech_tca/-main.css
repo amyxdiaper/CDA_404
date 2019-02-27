@@ -1,0 +1,75 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+.thin {
+    width: 80%;
+    text-align: center;
+    float: left;
+}
+
+
+#main_section {
+    background-color: #979797;
+    float: left;
+}
+
+#wrapper {
+    width: 80%;
+    background-color: #ffffff;
+    float: left;
+    font-family: Arial;
+}
+
+#header {
+    background-color: #979797;
+}
+
+
+nav ul li {
+    display: inline;
+    margin-right: 10%;
+}
+
+nav {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    background-color: #979797;
+}
+
+article {
+    width: 40%;
+    float: left;
+    background-color: #d3d3d3;
+    text-align: center;
+    margin-left: 50px;
+}
+
+#contact_us {
+    float: left;
+    width: 25%;
+    margin-left: 40%;
+}
+
+
+#info input[type="text"], input[type="email"], input[type="text area"] {
+    float: left;
+    width: 400px;
+    background-color: #d3d3d3;
+}
+
+#info input[type="submit"] {
+    width: 405px;
+    border-radius: 4px;
+    border: solid 1px black;
+    font-size: 20px;
+}
+
