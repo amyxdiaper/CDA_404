@@ -11,4 +11,6 @@ potential employers.
 ## Wireframes
 
 There are multiple wireframes for this project as they show the layout of the different pages. It is also a responsive design so the features on
-the site will change positions depending on the 
+the site will change positions depending on the device it is accessed from. This ensures a good user experience from all platforms when viewing
+the site. Wireframes allow a basic layout of all of the pages on the website and give the creator a rough idea of the more detailed plans for the
+project. 

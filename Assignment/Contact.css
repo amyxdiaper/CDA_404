@@ -1,0 +1,32 @@
+p {
+    font-size: 12px;
+}
+
+    
+h1, h2 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 15px;
+}
+
+nav {
+    background-color: #74C5FE;
+    padding: 0% 1% 1% 1%;
+}
+
+nav ul {
+    margin: 0 auto;
+    width: 45%;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 15%;
+}
+
+
+footer {
+    background-color: #74C5FE;
+}
