@@ -17,7 +17,7 @@ the site will change positions depending on the device it is accessed from. This
 the site. Wireframes allow a basic layout of all of the pages on the website and give the creator a rough idea of the more detailed plans for the
 project. 
 
-![Wireframe](documentation/desktop_wireframe2.jpg)
+![Wireframe](/sessions/Assignment/desktop_wireframe_2.JPG.jpg)
 
 ## Colour choices
 The colour chosen for this website are a white backgrounds and light blue details. These colours were chosen because they are very similar to other
