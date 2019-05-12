@@ -23,11 +23,11 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin-right: 15%;
+    margin-right: 10%;
 }
 
 
-footer {
+#footer {
     background-color: #74C5FE;
 }
 

@@ -1,5 +1,6 @@
 p {
     font-size: 12px;
+    text-align: center;
 }
 
     
@@ -23,13 +24,24 @@ nav ul {
 
 nav ul li {
     display: inline;
-    margin-right: 15%;
+    margin-right: 10%;
 }
 
 
-footer {
+#footer {
     background-color: #74C5FE;
 }
+
+main_section {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    left: 40%;
+    position: relative;
+}
+
 
 @media (max-width : 480px) {
 
