@@ -15,7 +15,14 @@ potential employers.
 There are multiple wireframes for this project as they show the layout of the different pages. It is also a responsive design so the features on
 the site will change positions depending on the device it is accessed from. This ensures a good user experience from all platforms when viewing
 the site. Wireframes allow a basic layout of all of the pages on the website and give the creator a rough idea of the more detailed plans for the
-project. 
+project. The wireframes below show the vary basic layouts of all of the pages on a desktop and smaller mobile device. The only page that is different is
+the one with the table on it which makes the text move up. 
+
+![desktop_wireframe2.jpg](/sessions/Assignment/desktop_wireframe_2.JPG)
+![desktop_wireframe3.jpg](/sessions/Assignment/desktop_wireframe_3.JPG)
+![mobile_wireframe2.jpg](/sessions/Assignment/mobile_wireframe_2.JPG)
+![mobile_wireframe3.jpg](/sessions/Assignment/mobile_wireframe_3.JPG)
+
 
 
 ## Colour choices
